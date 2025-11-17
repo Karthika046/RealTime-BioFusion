@@ -1,19 +1,16 @@
 # RealTime-BioFusion
 *A portable system for real-time ECG, EEG, and EMG signal acquisition and analysis.*
 
-[https://img.shields.io/badge/License-MIT-green.svg](LICENSE)
-https://img.shields.io/badge/Arduino-IDE-blue.svg](#tech-stack)
-https://img.shields.io/badge/MATLAB-SignalProcessing-orange.svg](#tech-stack)
-https://img.shields.io/badge/Build-Passing-brightgreen.svg](#)
-https://img.shields.io/badge/Docs-Complete-success.svg](#table-of-contents)
-https://img.shields.io/github/stars/Karthika046/RealTime-BioFusion.svg?style=social](https://github.com/Karthika046/RealTime-BioFusion/stargazers)
-https://img.shields.io/github/last-commit/Karthika046/RealTime-BioFusion.svg](https://github.com/Karthika046/RealTime-BioFusion/commits/ma](https://img.shields.io/badge/License-MIT-green.svg](LICENSE)
-https://img.shields.io/badge/Arduino-IDE-blue.svg](#tech-stack)
-https://img.shields.io/badge/MATLAB-SignalProcessing-orange.svg](#tech-stack)
-https://img.shields.io/badge/Build-Passing-brightgreen.svg](#)
-https://img.shields.io/badge/Docs-Complete-success.svg](#table-of-contents)
-https://img.shields.io/github/stars/Karthika046/RealTime-BioFusion.svg?style=social](https://github.com/Karthika046/RealTime-BioFusion/stargazers)
-https://img.shields.io/github/last-commit/Karthika046/RealTime-BioFusion.svg](https://github.com/Karthika046/RealTime-BioFusion/commits/main))
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Arduino](https://img.shields.io/badge/Arduino-IDE-blue.svg)
+![MATLAB](https://img.shields.io/badge/MATLAB-SignalProcessing-orange.svg)
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+![Docs](https://img.shields.io/badge/Docs-Complete-success.svg)
+
+[![Stars](https://img.shields.io/github/stars/Karthika046/RealTime-BioFusion.svg?style=social)](https://github.com/Karthika046/RealTime-BioFusion/stargazers)
+[![Forks](https://img.shields.io/github/forks/Karthika046/RealTime-BioFusion.svg?style=social)](https://github.com/Karthika046/RealTime-BioFusion/network/members)
+[![Issues](https://img.shields.io/github/issues/Karthika046/RealTime-BioFusion.svg)](https://github.com/Karthika046/RealTime-BioFusion/issues)
+[![Last Commit](https://img.shields.io/github/last-commit/Karthika046/RealTime-BioFusion.svg)](https://github.com/Karthika046/RealTime-BioFusion/commits/main)
 
 ## Table of Contents
 1. [Overview](#overview)
