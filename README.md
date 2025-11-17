@@ -1,12 +1,12 @@
 # RealTime-BioFusion
 *A portable system for real-time ECG, EEG, and EMG signal acquisition and analysis.*
 
-https://img.shields.io/badge/License-MIT-green.svg
-https://img.shields.io/badge/Arduino-IDE-blue.svg
-![MATLAB](https://imgo/badge/MATLAB-SignalProcessing-orange.svg
-![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
-g.shields.io/badge/Docs-Complete-success.svg
-
+https://img.shields.io/badge/License-MIT-green.svg](LICENSE)
+[![Arduino IDE](https://img.shields.io/badge/Arduino-ech-stack)
+https://img.shields.io/badge/MATLAB-SignalProcessing-orange.svg](#tech-stack)
+[ttps://img.shields.io/badge/Build-Passing-brightgreen.svg](#)
+https://img.shields.io/badge/Docs-Complete-success.svg](#table-of-contents)
+[![GitHub stars](https://img.shields.io/github/stars/Karthika046/RealTime-BioFusion.svg?style=social)](https://github.com/Karthika046/RealTime-BioFusion/stargmit](https://img.shields.io/github/last-commit/Karthika046/RealTime-BioFusion.svg)](https://github.comTime-BioFusion/commits/main)
 
 ## Table of Contents
 1. [Overview](#overview)
