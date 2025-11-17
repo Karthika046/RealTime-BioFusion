@@ -1,6 +1,13 @@
 # RealTime-BioFusion
 *A portable system for real-time ECG, EEG, and EMG signal acquisition and analysis.*
 
+https://img.shields.io/badge/License-MIT-green.svg
+https://img.shields.io/badge/Arduino-IDE-blue.svg
+![MATLAB](https://imgo/badge/MATLAB-SignalProcessing-orange.svg
+![Build](https://img.shields.io/badge/Build-Passing-brightgreen.svg)
+g.shields.io/badge/Docs-Complete-success.svg
+
+
 ## Table of Contents
 1. [Overview](#overview)
 2. [Features](#features)
